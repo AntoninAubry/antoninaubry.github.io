@@ -75,88 +75,88 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Ministère de l'enseignement supérieur et de la Recherche - Equipe Insersup
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Data Scientist
-        caption: August 2023 - Present
-        quote: >
-          Gestion d'un système d'information en vue d'études statistiques d'insertion professionnelles des étudiants de l'enseignement supérieur
-        description: | # this will include new lines to allow paragraphs
-          Gestion d'un système d'information en vue d'études statistiques d'insertion professionnelles des étudiants de l'enseignement supérieur
+    - layout: left
+      title: Ministère de l'enseignement supérieur et de la Recherche - Equipe Insersup
+      link: boringcompany.com
+      # link_text: boringcompany.com
+      sub_title: Data Scientist
+      caption: August 2023 - Present
+      quote: >
+        Gestion d'un système d'information en vue d'études statistiques d'insertion professionnelles des étudiants de l'enseignement supérieur
+      description: | # this will include new lines to allow paragraphs
+        Gestion d'un système d'information en vue d'études statistiques d'insertion professionnelles des étudiants de l'enseignement supérieur
 
-        - layout: left
-        title: irex Consulting
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Data Scientist
-        caption: November 2022 - July 2023
-        quote: >
-            ekWateur: Prédiction long terme de consommation d'électricité (>36 kva)
-        description: | # this will include new lines to allow paragraphs
-            Définition d'une Pipeline (Python / Amazon SageMaker) de moteur de prédictions découpées en micro-services.
-            - Data Quality: Reconstruction des courbes de charge de mauvaise qualité ou avec peu d'historique
-            - Data Modelisation: Définition de différents modèles (LTSM, Ridge, Random Forest; XGBoost) et optimisation courbe par courbe (Optuna, RandomSearch, GridSearch).
-            - Monitoring: Suivi de performances/prédictions des modèles et qualité des données en inputs.          
+    - layout: left
+      title: irex Consulting
+      link: boringcompany.com
+      # link_text: boringcompany.com
+      sub_title: Data Scientist
+      caption: November 2022 - July 2023
+      quote: >
+          ekWateur: Prédiction long terme de consommation d'électricité (>36 kva)
+      description: | # this will include new lines to allow paragraphs
+          Définition d'une Pipeline (Python / Amazon SageMaker) de moteur de prédictions découpées en micro-services.
+          - Data Quality: Reconstruction des courbes de charge de mauvaise qualité ou avec peu d'historique
+          - Data Modelisation: Définition de différents modèles (LTSM, Ridge, Random Forest; XGBoost) et optimisation courbe par courbe (Optuna, RandomSearch, GridSearch).
+          - Monitoring: Suivi de performances/prédictions des modèles et qualité des données en inputs.          
         
-        - layout: left
-        title: Yanport
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Data Scientist intern
-        caption: April 2022 - September 2022
-        quote: >
-          Entreprise utilisant le scraping de données immobilières afin de fournir des indicateurs performants du marché
-        description: | # this will include new lines to allow paragraphs
-          - Construction d'un indice de fiabilité pour les indicateurs du marché immobilier
-          - Analyse de données, proof of concept du sujet proposé (Python), mise en
-            production (JAVA)
+    - layout: left
+      title: Yanport
+      link: boringcompany.com
+      # link_text: boringcompany.com
+      sub_title: Data Scientist intern
+      caption: April 2022 - September 2022
+      quote: >
+        Entreprise utilisant le scraping de données immobilières afin de fournir des indicateurs performants du marché
+      description: | # this will include new lines to allow paragraphs
+        - Construction d'un indice de fiabilité pour les indicateurs du marché immobilier
+        - Analyse de données, proof of concept du sujet proposé (Python), mise en
+          production (JAVA)
 
-        - layout: left
-        title: Le Mans université  
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Tuteur
-        caption: Feb 2018 - May 2018
-        quote: >
-          Tuteur en Macro économie et Micro économie
-        description: | # this will include new lines to allow paragraphs
-          Responsable d'un groupe d'une dizaine d'étudiants de Licence 1.
-          Réalisation d'exercices, corrections et soutiens adaptés à leurs besoins. 
+    - layout: left
+      title: Le Mans université  
+      link: boringcompany.com
+      # link_text: boringcompany.com
+      sub_title: Tuteur
+      caption: Feb 2018 - May 2018
+      quote: >
+        Tuteur en Macro économie et Micro économie
+      description: | # this will include new lines to allow paragraphs
+        Responsable d'un groupe d'une dizaine d'étudiants de Licence 1.
+        Réalisation d'exercices, corrections et soutiens adaptés à leurs besoins. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Université Paris Dauphine PSL 
-        caption: 2021 - 2022
-        sub_title: Mathématiques apprentissage, sciences et humanités (MASH)
-        quote: >
-          Master en Machine Learning dispensé par l'université Paris Dauphine et l'Ecole Normale Supérieure dans le cadre de l'université Paris sciences et lettres (PSL): Mention Bien
-        description: | # this will include new lines to allow paragraphs
-          Matières : 
-          Optimisation Convexe, Optimisation pour le Machine Learning, Statistiques en grandes dimensions, Optimisation, Advanced Learning, Modèles graphiques, Natural Language Processing, Reconnaissance d'objet vison, Renforcement Learning, Applied Bayesian Statistics, Evaluation des politiques publiques, Journalisme et Données.
+    - layout: left
+      title: Université Paris Dauphine PSL 
+      caption: 2021 - 2022
+      sub_title: Mathématiques apprentissage, sciences et humanités (MASH)
+      quote: >
+        Master en Machine Learning dispensé par l'université Paris Dauphine et l'Ecole Normale Supérieure dans le cadre de l'université Paris sciences et lettres (PSL): Mention Bien
+      description: | # this will include new lines to allow paragraphs
+        Matières : 
+        Optimisation Convexe, Optimisation pour le Machine Learning, Statistiques en grandes dimensions, Optimisation, Advanced Learning, Modèles graphiques, Natural Language Processing, Reconnaissance d'objet vison, Renforcement Learning, Applied Bayesian Statistics, Evaluation des politiques publiques, Journalisme et Données.
 
-      - layout: left
-        title: Université Paris Dauphine PSL 
-        caption: 2020 - 2021
-        sub_title: Master de Mathématiques Appliquées 
-        quote: >
-          Master de Mathématiques Appliquées, parcours Actuariat.  
-        description: | # this will include new lines to allow paragraphs
-          Matières : 
-          ......................................................
+    - layout: left
+      title: Université Paris Dauphine PSL 
+      caption: 2020 - 2021
+      sub_title: Master de Mathématiques Appliquées 
+      quote: >
+        Master de Mathématiques Appliquées, parcours Actuariat.  
+      description: | # this will include new lines to allow paragraphs
+        Matières : 
+        ......................................................
 
-        - layout: left
-        title: Le Mans Université
-        caption: 2017 - 2020
-        sub_title: Double licence d'économie et de mathématiques 
-        quote: >
-          Parcours de sciences actuarielles et financières: Mention Bien 
-        description: | # this will include new lines to allow paragraphs
-          Matières : 
-          ......................................................
+    - layout: left
+      title: Le Mans Université
+      caption: 2017 - 2020
+      sub_title: Double licence d'économie et de mathématiques 
+      quote: >
+        Parcours de sciences actuarielles et financières: Mention Bien 
+      description: | # this will include new lines to allow paragraphs
+        Matières : 
+        ......................................................
 
   - title: A Little More About Me
     layout: text
